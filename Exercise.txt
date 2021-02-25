@@ -1,0 +1,5 @@
+git checkout -b
+with fast forward merge you have a straight line of history and with the recursive merge, it is of multiple lines.
+git checkout
+git checkout -D
+When the repo is ahead in commit's and or has changes to the doc you commited
